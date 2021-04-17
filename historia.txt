@@ -1,1 +1,6 @@
-Micaela esta aprendiendo a usar git
+Esta es la historia de Micaela
+
+Micaela esta aprendiendo a usar git,
+tiene 20 años y nacio en Baigorria
+
+Hoy hablamos de su historia.
